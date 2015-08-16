@@ -18,6 +18,7 @@ $(document).ready(function(){
 		$('.ul_menu').addClass('ul_menu2');
 		$('.li_menu').addClass('li_menu2');
 		$('.a_menu').addClass('a_menu2');
+		
 
 		e.preventDefault();
 		});
